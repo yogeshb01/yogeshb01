@@ -3,8 +3,8 @@
 ### Hello World👋
 
 - 🕹️ I’m currently working as a DevOPS Engineer 
-- 🌱 I’m currently learning DevOPS Technologies
-- 👯 I’m looking to collaborate on fun projects.
+- 🌱 Curious in learning DevOPS Technologies
+- 👯 Open to collaborate on fun projects.
 - 📫 Please reach me at : <a href =https://www.linkedin.com/in/yogesh-bharambe-89b4a582/><img height="20" src="https://img.shields.io/badge/Yogesh Bharambe-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a> <a href = mailto:yogesh01bharambe@gmail.com><img height="20" src="https://img.shields.io/badge/Yogesh Bharambe-EA4335?logo=gmail&logoColor=white&style=for-the-badge"></a>
 
 
