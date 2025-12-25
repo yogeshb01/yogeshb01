@@ -15,6 +15,15 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS"  alt="AWS" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure"  alt="Azure" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/ansible/ansible-original-wordmark.svg" title="Ansible"  alt="Ansible" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/terraform/terraform-original-wordmark.svg" title="Terraform"  alt="Terraform" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/argocd/argocd-original-wordmark.svg" title="Argo-CD"  alt="Argo-CD" width="50" height="50"/>&nbsp;
+
+
+
+
+
 
 
 
@@ -24,9 +33,13 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="Github Actions" alt="GithubActions" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="BitBucket"  alt="BitBucket" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/bamboo/bamboo-original-wordmark.svg" title="Bamboo"  alt="Bamboo" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/jira/jira-original-wordmark.svg" title="JIRA"  alt="JIRA" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="Putty" alt="Putty" width="50" height="50"/>&nbsp;
-  
+<img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/sonarqube/sonarqube-original-wordmark.svg" title="Sonarqube" alt="Sonarqube" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/tomcat/tomcat-original-wordmark.svg" title="Tomcat" alt="Tomcat" width="50" height="50"/>&nbsp;
+
 
 
 <!--
